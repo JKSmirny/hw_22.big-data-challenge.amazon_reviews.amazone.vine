@@ -1,4 +1,3 @@
-# hw_22.big-data-challenge.amazon_reviews.amazon.vine
 # Big Data Homework - "Alexa, can you handle big data?"
 
 ### Before You Begin
